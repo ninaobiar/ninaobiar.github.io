@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ninaobiar.github.io/en/about/</loc>
+    <loc>https://ninaobiar.github.io/en/en/about/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ninaobiar.github.io/en/cv/</loc>
+    <loc>https://ninaobiar.github.io/en/en/cv/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ninaobiar.github.io/en/research/</loc>
+    <loc>https://ninaobiar.github.io/en/en/</loc>
+    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninaobiar.github.io/en/</loc>
+    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninaobiar.github.io/en/en/research/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ninaobiar.github.io/en/categories/</loc>
-  </url><url>
-    <loc>https://ninaobiar.github.io/en/</loc>
   </url><url>
     <loc>https://ninaobiar.github.io/en/tags/</loc>
   </url>
